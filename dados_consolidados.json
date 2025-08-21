@@ -1,0 +1,386 @@
+{
+  "pr_operacional": {
+    "atendimento": "MGA-SAO-OPE-PVI-TOTVS",
+    "0800_as_1900": null,
+    "1900_as_0800": null,
+    "endereco": "Avenida São Luís, 165",
+    "sao_paulo": null,
+    "sp": null,
+    "telefone": "11 3156-7593 ( Opção 1 nacional , 2 internacional )",
+    "totvsmaringaturismocombr_nacional_naispmaringaturismocombr_internacional": null,
+    "01046001": null,
+    "iata": 57972235,
+    "0qfc": null,
+    "cwb0y": null,
+    "cod_cliente": 261178,
+    "cwbw257972235": null,
+    "01403687": null,
+    "gestor_viagens": "Rodrigo Oliveira Pereira",
+    "rodrigoopereiratotvscombr": null,
+    "11_995598790": null,
+    "ger_ope": "Ivanete Bertosol",
+    "ibertasolmaringaturismocombr": null,
+    "11_988756013": null,
+    "ger_rel": "Rodrigo Lopes Jaime",
+    "rjaimemaringaturismocombr": null,
+    "11_939295803": null,
+    "supervisor": "Iris Domingos ",
+    "idomingosmaringaturismocombr": null,
+    "11_939278049": null,
+    "consultores": null,
+    "consultor_1_nacional": "Silmara Caroline de Jesus Calixto",
+    "ana_claudia": null,
+    "consultor_2_nacional": "Roseli de Jesus Leite e Isabella da Silva",
+    "consultor_3_nacional": "Isabella Cristina Silva",
+    "consultor_4_internacional": "Eliane Almeida",
+    "consultor_5_internacional": "Marcos Dias",
+    "regra_de_solicitacao": null,
+    "aprovacao": null,
+    "observacoes_do_plantao": null,
+    "o_plantao_emergencial_pode_ser_acionado_por_todos_os_colaboradores_pedido_deve_estar_aberto_e_aprovado_em_sistema_para_excecoes_como_pedidos_abertos_porem_ainda_nao_aprovados_ou_pedidos_nao_abertos_em_sistema_o_plantao_devera_acionar_por_telefone_1_dos_gestores_de_viagens_mencionados_a_seguir_para_que_possam_autorizar_as_excecoes_seguindo_a_seguinte_ordem_para_contato_1_rodrigo_oliveira_11_933756076_ou_2_glaucia_kassner_11_964879744_ou_3_rodrigo_figueiredo_11_968411670_caso_o_consultor_nao_consiga_contato_com_nenhuma_das_3_pessoas_mencionadas_devera_informar_o_telefone_de_rodrigo_oliveira_ao_solicitante_para_que_seja_contactado_pelo_solicitante_ao_ser_contactado_pelo_solicitante_rodrigo_oliveira_fara_contato_telefonico_com_o_plantao_para_autorizar_apos_atendimento_realizado_o_consultor_do_plantao_devera_enviar_email_para_spreservetotvscombr_informando_o_atendimento_realizado_para_que_a_gestao_de_viagens_solicite_a_abertura_de_fire_posteriormente_terceiro_nao_tem_acesso_ao_pedido_na_ferramenta_o_atendimento_so_podera_ser_realizado_se_for_um_colaborador_cadastrado_no_obt": null,
+    "politica_de_viagem": null,
+    "observacoes": null,
+    "solicita_eventos": null,
+    "solicita_lazer": null,
+    "exige_autorizacao": null,
+    "canal_de_solicitacao": null,
+    "se_sistema_qual_indique": null,
+    "sla_domestico_aereo": null,
+    "sla_internacional_aereo": null,
+    "_volume_trx": null,
+    "terrestre": null,
+    "obs": null,
+    "_aereo": null,
+    "internacional": null,
+    "envio_de_itinerario": null,
+    "trip_case_link": null,
+    "vip": null,
+    "emergencial": null,
+    "documentacao": null,
+    "vistos": null,
+    "servico_de_aeroporto": null,
+    "seguro": null,
+    "observacoes_politica": null,
+    "antecedencia_nacional_10_dias_todos_os_produtos_antecedencia_internacional_12_dias_todos_os_produtos_politica_de_menor_tarifa_aereo_nacional": null,
+    "aprovador": 1,
+    "centro_de_custo": 1,
+    "departamento": null,
+    "classe_de_valor": 1,
+    "matricula": 1,
+    "forma_de_pgto_aereo": "VCN",
+    "n_cartoes_ebta_ou_cta": null,
+    "psi_dados_de_cartao_devem_ser_registrados_dentro_das_normas_de_seguranca_maringa_consultar_area_de_cadastros": null,
+    "aplica_taxa_du": null,
+    "classes_voos_intl": null,
+    "diretoria": null,
+    "outros_funcionarios": null,
+    "limite_de_pax_por_voo": null,
+    "acordos_aereos": null,
+    "cia_aerea": "Mercado\n(Nac/Inter)",
+    "account_code": "Corporate ID",
+    "promo_code": "Tour Code",
+    "validade": "Remarks / OSI",
+    "latam": "NACIONAL",
+    "b2545": "TOT11",
+    "indeterminado": null,
+    "gol": "NACIONAL/INTER",
+    "totvs": null,
+    "azul": "NACIONAL",
+    "tarifario_hotel_domestico": null,
+    "tipo_de_tarifa": null,
+    "tarifario_hotel_intl": null,
+    "rate_access_code": null,
+    "garantia_de_noshow": null,
+    "forma_de_pgto_hotel": null,
+    "numero_hotel_card": null,
+    "acordo_locadora_domestico": null,
+    "acordo_locadora_intl": null,
+    "locadora": "Validade",
+    "it": "ID-",
+    "cd": "Observações",
+    "vide_aba_apartada_especifica": null,
+    "forma_de_pgto_carro": null,
+    "movida_bv2": null,
+    "forma_de_pagamento": null,
+    "cartao_credito": null,
+    "nome": "CARGO",
+    "tel_com": null,
+    "celular": null,
+    "email": null,
+    "lista_apartada_em_aba_especifica": null
+  },
+  "pr_atendimento": [
+    {
+      "pronta_referencia_atendimento_totvs": "IMPORTANTE: pedidos expirados devem ser cancelados e não reativados, solicitar criação de novo pedido e inserir no blog a mensagem:"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "Conforme orientaçao da gestão de Viagens da TOVTS, pedidos que tiveram o prazo expirado de aprovaçao devem ser excluídos e refeitos novamente e seguir o fluxo de aprovação."
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "Pedido com a data de voo passada -deve ser cancelado"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "Sempre registrar no BLOG as tratativas de todo o processo"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "IMPORTANTE: Não podemos ter questionamento de pedidos parados e sem registro de ação por parte da agência"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "HOTEL NACIONAL"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "FOP - VCN CLIENTE  (autorizado somente diárias e taxas)"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "OBS: na situação que o hotel não aceitar o VCN é necessário inserir um blog informando para pedir autorização para Gestão de Viagens"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "O pedido deve constar o valor da diária e taxas nos devidos campos"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "a reserva deve ser realizada online pelo viajante - exceto  se não tiver opção ou o hotel desejado online e no caso do hotel Intercity Anhembi que possui acordo de menor tarifa para reserva offline "
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "INSTRUÇÃO PARA SOLICITAÇÃO OFFLINE QUE POSUSI CONTEÚDO ONLINE"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "inserir no blog: Conforme orientação da Gestão de Viagens da TOTVS, toda e qualquer reserva de hotel deve ser realizada ONLINE, salvo se na localidade solicitada não houver opção ou hotel desejado."
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "Verificamos que para essa localidade e hotel há disponibilidade ONLINE. Por gentileza, excluir esse pedido e refazê-lo ONLINE."
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "Qualquer dúvida, entrar em contato com a Gestão de Viagens da TOTVS: através do e-mail: sp.reserve@totvs.com.br"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "cancelamento: quando não houver custo, cancelar e excluir o pedido "
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "INTERNACIONAL"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "HOTEL - ATRAVÉS DA  BEST BUY //TRAVEL.COM//EUROPLUS"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "FOP - VCN CLIENTE "
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "LOCAÇÃO -  FATURADO - utilizar nosso fornecedores "
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "SEGURO VIAGEM  - através do cartão"
+    },
+    {
+      "pronta_referencia_atendimento_totvs": "AÉREO - tratar as cotações por e-mail - inserir no pedido a opção escolhida e inserir no blog as opções enviadas por e-mail (trecho e valor)"
+    }
+  ],
+  "vips": [
+    {
+      "totvs": "Executivo VIP",
+      "": "Cargo"
+    },
+    {
+      "totvs": "DENNIS HERSZKOWICZ",
+      "": "Presidente"
+    },
+    {
+      "totvs": "LAERCIO JOSE DE LUCENA COSENTINO",
+      "": "Presidente do Conselho"
+    },
+    {
+      "totvs": "MARCELO EDUARDO SANT´ANNA COSENTINO",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "ALEXANDRE HADDAD APENDINO",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "GUSTAVO DUTRA BASTOS",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "GILSOMAR MAIA SEBASTIÃO",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "VIVIAN BROGE",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "GUSTAVO AUGUSTO SILVA AVELAR",
+      "": "Vice Presidente"
+    },
+    {
+      "totvs": "ELOI PRADO DE ASSIS",
+      "": "Diretor executivo"
+    },
+    {
+      "totvs": "PEDRO HENRIQUE DE FREITAS ALMEIDA",
+      "": "Diretor executivo"
+    },
+    {
+      "totvs": "SERGIO PAUPERIO SERIO FILHO",
+      "": "Diretor"
+    },
+    {
+      "totvs": "MARCO ANTONIO MOAS CAFASSO",
+      "": "Diretor executivo"
+    },
+    {
+      "totvs": "RODRIGO DE ALMEIDA SARTÓRIO",
+      "": "Diretor executivo"
+    },
+    {
+      "totvs": "EDUARDO FERREIRA",
+      "": "Gerente"
+    },
+    {
+      "totvs": "DIMENSA",
+      "": NaN
+    },
+    {
+      "totvs": "Executivo VIP",
+      "": "Cargo"
+    },
+    {
+      "totvs": "ANTONIO EDUARDO ALVES PENTEADO DO NASCIMENTO",
+      "": "Presidente"
+    },
+    {
+      "totvs": "MARCELO FERREIRA ROSA",
+      "": "Diretor"
+    }
+  ],
+  "movida": {
+    "fop_bv2_faturamento_de_diarias_protecoes_taxas_e_extras_selecionados_na_reserva_para_a_agencia_de_viagens_multas_avarias_sem_parar_apropriacao_indebita_no_cartao_de_credito_do_condutor": null,
+    "nome": null,
+    "endereco": null,
+    "uf": "CNPJ",
+    "it": "CD",
+    "totvs_matriz": null,
+    "av_braz_leme_1000": null,
+    "sp": "27.231.185/0007-97",
+    "totvs_filial_porto_alegre": null,
+    "logradouro_av_dolores_alcaraz_caldas_90_andar_4": null,
+    "rs": "07.363.764/0005-14",
+    "53113791001102": "53113791001102",
+    "totvs_filial_belo_horizonte": null,
+    "av_raja_gabaglia_n_2664_sl_201_a_207": null,
+    "mg": 73778000120,
+    "53113791001285": "53113791001285",
+    "totvs_filial_santa_catarina": null,
+    "av_santos_dumont_n_831": null,
+    "sc": "07.577.599/0007-65",
+    "53113791001790": "53113791001790",
+    "totvs_tecnologia_em_software_matriz": null,
+    "q_sgan_601_sn_conj_h_sala_54_a_67_subsl_1_sala_36": null,
+    "df": 7577599000170,
+    "07577599000170": "07577599000170",
+    "totvs_recife_empresa": null,
+    "av_barao_de_souza_leao_425_andar_11_sala_1101_a_1110": null,
+    "pe": 7363764000190,
+    "07363764000190": "07363764000190",
+    "totvs_filial_rio_de_janeiro": null,
+    "pr_botafogo_370_6_andar_setor_a": null,
+    "rj": 82373077000767,
+    "53113791000807": "53113791000807",
+    "totvs_hospitality_tqtvd": null,
+    "pr_botafogo_370_5_andar_setor_c": null,
+    "09131273000140": "09131273000140",
+    "totvs_filial_macae": null,
+    "pr_botafogo_370_6_andar_setor_b": null,
+    "53113791002338": "53113791002338",
+    "totvs_filial_caxias_do_sul": null,
+    "avenida_rio_branco_1020": null,
+    "53113791002680": "53113791002680",
+    "totvs_recife_filial_bahia": null,
+    "r_ewerton_visco_290_ed_boulevard_s_empresarial_sala_2401": null,
+    "ba": 7363764000271,
+    "07363764000271": "07363764000271",
+    "totvs_filial_assis": null,
+    "r_sebastiao_da_silva_leite_1333": null,
+    "53113791002761": "53113791002761",
+    "totvs_tecnologia_em_software_goiania": null,
+    "av_deputado_jamel_cecilio_2929_quadrab27_lote_22_sala_9": null,
+    "go": "07.363.764/0004-33",
+    "07577599000501": "07577599000501",
+    "dimensa_matriz": null,
+    "rua_desembargador_euclides_da_silveira_n_232": null,
+    "27231185000100": "27231185000100",
+    "totvs_reserva_kerina": null,
+    "praia_do_botafogo_370_5_andar_setor_a": null,
+    "19116002000179": "19116002000179",
+    "totvs_large_enterp_bematech_matriz": null,
+    "av_braz_leme_1000_bloco_b_andar_2": null,
+    "82373077000171": "82373077000171",
+    "totvs_large_enterprise_bema_sw_filial_sao_paulo": null,
+    "rua_alexandre_dumas_2100_andar_17_e_18_conj_171_e_172": null,
+    "82373077000252": "82373077000252",
+    "totvs_filial_maringa": null,
+    "rua_vereador_basilio_sautchuk_856_6_andar": null,
+    "pr": "82.373.077/0024-68",
+    "53113791003148": "53113791003148",
+    "dimensa_filial_porto_alegre": null,
+    "av_dolores_alcaraz_caldas_90_andar_8": null,
+    "27231185000282": "27231185000282",
+    "totvs_tecnologia_em_software_bh": null,
+    "av_raja_gabaglia_2664_ed_raja_top": null,
+    "07577599000250": "07577599000250",
+    "totvs_large_enterprise_bema_sw_filial_bh": null,
+    "av_barao_homem_de_melo_4391_sala_901": null,
+    "82373077000503": "82373077000503",
+    "totvs_large_enterprise_bema_sw_filial_rj": null,
+    "pr_botafogo_370_5_andar_setor_d": null,
+    "82373077000767": "82373077000767",
+    "wsystems": null,
+    "rua_presidente_bernardes_2009_edif_exxa_andar_3": null,
+    "04246339000123": "04246339000123",
+    "rj_consultores_associados": null,
+    "av_raja_gabaglia_2664_sala_201_a_207_setor_b": null,
+    "00073778000120": "00073778000120",
+    "totvs_eleve": null,
+    "av_ipiranga_6681_andar_10_sala_1009": null,
+    "30011940000147": "30011940000147",
+    "totvs_tts_ribeirao_preto": null,
+    "av_presidente_vargas_1265_andar_12_sala_1207": null,
+    "07363764000352": "07.363.764/0003-52",
+    "totvs_large_enterprise_pinheiros": null,
+    "av_pedroso_de_morais_1553_conj_51": null,
+    "82373077002387": "82.373.077/0023-87",
+    "feedz": null,
+    "rod_virgilio_varzea_587_andar_7_sala_302": null,
+    "30457205000161": "30.457.205/0001-61",
+    "dimensa_filial_vadu": null,
+    "avenida_braz_leme_1000": null,
+    "27231185000606": "27.231.185/0006-06",
+    "totvs_tts_filial_caxias_do_sul": null,
+    "avenida_rio_branco1020": null,
+    "07363764000603": "07.363.764/0006-03",
+    "totvs_tts_filial_porto_alegre": null,
+    "rua_silva_jardim_350": null,
+    "07363764000514": "07.363.764/0005-14",
+    "totvs_tts_campinas": null,
+    "av_doutor_antonio_carlos_couto_de_barros_937": null,
+    "07363764000786": "07.363.764/0007-86",
+    "totvs_tts_jundiai": null,
+    "avenida_nove_de_julho3575": null,
+    "07363764000867": "07.363.764/0008-67",
+    "totvs_tts_limeira": null,
+    "rua_prof_ceci_barbosa_neves_stefano_461": null,
+    "07363764000948": "07.363.764/0009-48",
+    "dimensa_sa_filial_minas_gerais": null,
+    "av_sebastiao_antunes_fonseca_800_jardim_caicara_leopoldina_mg": null,
+    "solucoes_em_software_e_servicos_tts_ltda": null,
+    "av_deputado_jamel_cecilio_2929_quadrab27_lote_22_sala_901_sala1001_sala_1101_sala_1701": null,
+    "totvs_tecnologia_em_software_joinville": null,
+    "av_santos_dumont_831": null,
+    "07577599000684": "07.577.599/0006-84",
+    "varejo_online_tecnologia_e_informatica_ltda": null,
+    "r_iririu_1777_sala_202203_e2024_joinvillesc": null,
+    "totvs_tecnologia_em_software_de_gestao_ltda": null,
+    "rod_virgilio_varzea_587_andar_7_sala_302florianopolis": null,
+    "totvs_large_enterprise_tecnologia_sa_cascavel": null,
+    "rua_presidente_bernardes_2009_edif_exxa_andar_3_cascavel_parana": null
+  }
+}
